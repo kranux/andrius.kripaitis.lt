@@ -1,0 +1,43 @@
+{
+    "sliceView":true,
+
+    "template":"jade",
+
+    "styles":[
+
+    ],
+
+    "scripts":[
+
+    ],
+
+    "routes":[
+        {
+            "path":"/index.html",
+            "layout":"index",
+            "title":"Andrius Kripaitis | Web programuotojas: Facebook aplikacijos, JavaScript programavimas, Wordpress",
+            "options":{
+                "metakeywords":"Andrius Kripaitis, programuotojas, web programuotojas, Facebook programuotojas, alikacijų kūrėjas, WordPress programuotojas, JavaScript programuotojas, laisvai samdomas programuotojas, freelance programuotojas, Facebook freelancer, JavaScript Freelance",
+                "metadescription":"Andrius Kripaitis - web programuotojas. Interneto projektų kūrimas naudojant WordPress turinio valdymo sistemą, Facebook aplikacijų programavimas, JavaScript programavimas."
+            }
+        },
+        {
+            "path":"/javascript-programuotojas.html",
+            "layout":"javascript",
+            "title":"JavaScript programuotojas Andrius Kripaitis",
+            "options":{
+                "metakeywords":"JavaScript programuotojas, laisvai samdomas JavaScript programuotojas, freelance JavaScript programuotojas, JavaScript, JavaScript programavimas, jQuery programuotojas, jQuery programavimas, jQuery",
+                "metadescription":"Laisvai samdomas JavaScript programuotojas - Andrius Kripaitis"
+            }
+        },
+        {
+            "path":"/wordpress-programuotojas.html",
+            "layout":"wordpress",
+            "title":"WordPress programuotojas Andrius Kripaitis",
+            "options":{
+                "metakeywords":"WordPress programuotojas, laisvai samdomas WordPress programuotojas, freelance WordPress programuotojas, WordPress, WordPress programavimas, WordPress temų programavimas",
+                "metadescription":"Laisvai samdomas WordPress programuotojas - Andrius Kripaitis"
+            }
+        }
+    ]
+}
